@@ -1,0 +1,16 @@
+altgraph==0.17
+beautifulsoup4==4.9.1
+certifi==2020.4.5.2
+chardet==3.0.4
+future==0.18.2
+fuzzywuzzy==0.18.0
+idna==2.9
+lxml==4.5.1
+pefile==2019.4.18
+PyInstaller==3.6
+python-docx==0.8.10
+pywin32==228
+pywin32-ctypes==0.2.0
+requests==2.23.0
+soupsieve==2.0.1
+urllib3==1.25.9
